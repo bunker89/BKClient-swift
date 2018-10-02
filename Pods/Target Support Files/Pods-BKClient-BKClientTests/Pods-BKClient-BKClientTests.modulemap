@@ -1,0 +1,6 @@
+framework module Pods_BKClient_BKClientTests {
+  umbrella header "Pods-BKClient-BKClientTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
